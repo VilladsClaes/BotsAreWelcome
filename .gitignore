@@ -1,0 +1,4 @@
+web/api/config.php
+botsarewelcome_private/
+*.sqlite
+.DS_Store
